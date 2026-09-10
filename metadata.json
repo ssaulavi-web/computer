@@ -1,0 +1,7 @@
+{
+  "name": "컴퓨터 초보 교실과 실습기",
+  "description": "컴퓨터 초보자와 어르신을 위한 2교시(각 50분) 맞춤형 커리큘럼, AI 수업 교안·유인물 자동 생성기 및 실시간 마우스·키보드·윈도우 인터랙티브 실습 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
